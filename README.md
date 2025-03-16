@@ -1,2 +1,3 @@
-# requirements.txt
-deneme
+backtrader
+matplotlib
+yahoo_fin
